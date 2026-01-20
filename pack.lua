@@ -36,7 +36,17 @@ local PACKS = {
 		Animation2 = 114191137265065,
 		ClimbAnim = 97824616490448,
 	},
-
+	["Wicked Popular"] = {
+		WalkAnim = 92072849924640,
+		RunAnim = 72301599441680,
+		JumpAnim = 104325245285198,
+		FallAnim = 121152442762481,
+		Animation1 = 118832222982049,
+		ClimbAnim = 131326830509784,
+		SwimIdle = 113199415118199,
+		Swim = 99384245425157,
+		Animation2 = 76049494037641,
+	},
 	Elder = {
 		WalkAnim = 10921111375,
 		RunAnim  = 10921104374,
